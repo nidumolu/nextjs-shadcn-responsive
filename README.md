@@ -20,6 +20,12 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+# desktop view - light mode
+![full-screen-light](https://github.com/nidumolu/nextjs_tailwindcss_shadcn/assets/13748087/39d02fc2-a2ce-4749-b162-82fc5cec8433)
+
+# responsive mobil eview - dark mode
+![responsive-dark](https://github.com/nidumolu/nextjs_tailwindcss_shadcn/assets/13748087/286df7f3-a2e1-48a7-abb0-00e5d36d080e)
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
